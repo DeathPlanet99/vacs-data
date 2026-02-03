@@ -152,14 +152,14 @@ jobs:
           if-no-files-found: error
           retention-days: 30
           path: |
-            target/release/${{ matrix.binary_name }}
+            tools/target/${{ matrix.target }}/release/${{ matrix.binary_name }}
 
       - name: Attest build provenance
         if: ${{ !github.event.repository.private || github.event.repository.owner.type == 'Organization' }}
         uses: actions/attest-build-provenance@v3.2.0
         with:
           subject-path: |
-            target/release/${{ matrix.binary_name }}
+            tools/target/${{ matrix.target }}/release/${{ matrix.binary_name }}
 
   release:
     needs: [prep, generate-changelog, build]

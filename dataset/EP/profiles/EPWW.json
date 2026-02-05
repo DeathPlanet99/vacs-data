@@ -1,15 +1,15 @@
 {
-  "id": "LOWW",
+  "id": "EPWW",
   "type": "Tabbed",
   "tabs": [
     {
-      "label": "EC",
+      "label": "RADAR L",
       "page": {
-        "rows": 6,
+        "rows": 5,
         "keys": [
           {
             "label": [
-              "PRA",
+              "",
               "LW",
               "EC"
             ]

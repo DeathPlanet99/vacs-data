@@ -289,7 +289,7 @@ controlled_by = [
     "EPWW_F_CTR",
     "EPWW_G_CTR",
     "EPWW_N_CTR",
-    "EPWW",
+    "EPWW_CTR",
     "EPWW_U_CTR",
 ]
 
@@ -301,7 +301,7 @@ controlled_by = [
     "EPWW_F_CTR",
     "EPWW_G_CTR",
     "EPWW_N_CTR",
-    "EPWW",
+    "EPWW_CTR",
     "EPWW_U_CTR",
 ]
 

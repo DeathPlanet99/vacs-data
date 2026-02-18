@@ -1,8 +1,6 @@
 [[stations]]
 id = "EPWW_FMP"
-controlled_by = [
-  "EPWW_FMP"
-]
+controlled_by = ["EPWW_FMP"]
 
 [[stations]]
 id = "EPWWB_HIGH"
@@ -11,7 +9,7 @@ controlled_by = [
   "EPWW_ALH_CTR",
   "EPWW_DBT_CTR",
   "EPWW_DBF_CTR",
-  "EPWW_ALL_CTR"
+  "EPWW_ALL_CTR",
 ]
 
 [[stations]]
@@ -21,7 +19,7 @@ controlled_by = [
   "EPWW_DBF_CTR",
   "EPWW_N_CTR",
   "EPWW_ALH_CTR",
-  "EPWW_ALL_CTR"
+  "EPWW_ALL_CTR",
 ]
 
 [[stations]]
@@ -31,7 +29,7 @@ controlled_by = [
   "EPWW_DBF_CTR",
   "EPWW_N_CTR",
   "EPWW_ALL_CTR",
-  "EPWW_ALH_CTR"
+  "EPWW_ALH_CTR",
 ]
 
 [[stations]]
@@ -44,12 +42,12 @@ controlled_by = [
   "EPWW_ALH_CTR",
   "EPWW_TCJ_CTR",
   "EPWW_C_CTR",
-  "EPWW_ALL_CTR"
+  "EPWW_ALL_CTR",
 ]
 
 [[stations]]
 id = "EPWWC_MID"
-controlled_by = [  
+controlled_by = [
   "EPWW_TCJ_CTR",
   "EPWW_DTC_CTR",
   "EPWW_S_CTR",
@@ -57,7 +55,7 @@ controlled_by = [
   "EPWW_N_CTR",
   "EPWW_ALH_CTR",
   "EPWW_C_CTR",
-  "EPWW_ALL_CTR"
+  "EPWW_ALL_CTR",
 ]
 
 [[stations]]
@@ -70,7 +68,7 @@ controlled_by = [
   "EPWW_E_CTR",
   "EPWW_N_CTR",
   "EPWW_ALL_CTR",
-  "EPWW_ALH_CTR"
+  "EPWW_ALH_CTR",
 ]
 
 [[stations]]
@@ -83,7 +81,7 @@ controlled_by = [
   "EPWW_DT_CTR",
   "EPWW_DBF_CTR",
   "EPWW_D_CTR",
-  "EPWW_ALL_CTR"
+  "EPWW_ALL_CTR",
 ]
 
 [[stations]]
@@ -96,7 +94,7 @@ controlled_by = [
   "EPWW_N_CTR",
   "EPWW_ALH_CTR",
   "EPWW_D_CTR",
-  "EPWW_ALL_CTR"
+  "EPWW_ALL_CTR",
 ]
 
 [[stations]]
@@ -108,7 +106,7 @@ controlled_by = [
   "EPWW_DTC_CTR",
   "EPWW_N_CTR",
   "EPWW_ALL_CTR",
-  "EPWW_ALH_CTR"
+  "EPWW_ALH_CTR",
 ]
 
 [[stations]]
@@ -119,7 +117,7 @@ controlled_by = [
   "EPWW_S_CTR",
   "EPWW_N_CTR",
   "EPWW_ALH_CTR",
-  "EPWW_ALL_CTR"
+  "EPWW_ALL_CTR",
 ]
 
 [[stations]]
@@ -130,7 +128,7 @@ controlled_by = [
   "EPWW_S_CTR",
   "EPWW_N_CTR",
   "EPWW_ALH_CTR",
-  "EPWW_ALL_CTR"
+  "EPWW_ALL_CTR",
 ]
 
 [[stations]]
@@ -141,7 +139,7 @@ controlled_by = [
   "EPWW_S_CTR",
   "EPWW_N_CTR",
   "EPWW_ALL_CTR",
-  "EPWW_ALH_CTR"
+  "EPWW_ALH_CTR",
 ]
 
 [[stations]]
@@ -152,7 +150,7 @@ controlled_by = [
   "EPWW_FG_CTR",
   "EPWW_DBF_CTR",
   "EPWW_F_CTR",
-  "EPWW_ALL_CTR"
+  "EPWW_ALL_CTR",
 ]
 
 [[stations]]
@@ -163,7 +161,7 @@ controlled_by = [
   "EPWW_N_CTR",
   "EPWW_ALH_CTR",
   "EPWW_F_CTR",
-  "EPWW_ALL_CTR"
+  "EPWW_ALL_CTR",
 ]
 
 [[stations]]
@@ -174,7 +172,7 @@ controlled_by = [
   "EPWW_DBF_CTR",
   "EPWW_N_CTR",
   "EPWW_ALL_CTR",
-  "EPWW_ALH_CTR"
+  "EPWW_ALH_CTR",
 ]
 
 [[stations]]
@@ -185,7 +183,7 @@ controlled_by = [
   "EPWW_FG_CTR",
   "EPWW_DBF_CTR",
   "EPWW_G_CTR",
-  "EPWW_ALL_CTR"
+  "EPWW_ALL_CTR",
 ]
 
 [[stations]]
@@ -196,7 +194,7 @@ controlled_by = [
   "EPWW_DBF_CTR",
   "EPWW_ALH_CTR",
   "EPWW_G_CTR",
-  "EPWW_ALL_CTR"
+  "EPWW_ALL_CTR",
 ]
 
 [[stations]]
@@ -207,7 +205,7 @@ controlled_by = [
   "EPWW_N_CTR",
   "EPWW_DBF_CTR",
   "EPWW_ALL_CTR",
-  "EPWW_ALH_CTR"
+  "EPWW_ALH_CTR",
 ]
 
 [[stations]]
@@ -219,7 +217,7 @@ controlled_by = [
   "EPWW_JR_CTR",
   "EPWW_TCJ_CTR",
   "EPWW_J_CTR",
-  "EPWW_ALL_CTR"
+  "EPWW_ALL_CTR",
 ]
 
 [[stations]]
@@ -231,7 +229,7 @@ controlled_by = [
   "EPWW_E_CTR",
   "EPWW_ALH_CTR",
   "EPWW_J_CTR",
-  "EPWW_ALL_CTR"
+  "EPWW_ALL_CTR",
 ]
 
 [[stations]]
@@ -243,7 +241,7 @@ controlled_by = [
   "EPWW_TCJ_CTR",
   "EPWW_E_CTR",
   "EPWW_ALL_CTR",
-  "EPWW_ALH_CTR"
+  "EPWW_ALH_CTR",
 ]
 
 [[stations]]
@@ -253,7 +251,7 @@ controlled_by = [
   "EPWW_N_CTR",
   "EPWW_E_CTR",
   "EPWW_ALH_CTR",
-  "EPWW_ALL_CTR"
+  "EPWW_ALL_CTR",
 ]
 
 [[stations]]
@@ -263,7 +261,7 @@ controlled_by = [
   "EPWW_N_CTR",
   "EPWW_E_CTR",
   "EPWW_ALH_CTR",
-  "EPWW_ALL_CTR"
+  "EPWW_ALL_CTR",
 ]
 
 [[stations]]
@@ -273,7 +271,7 @@ controlled_by = [
   "EPWW_N_CTR",
   "EPWW_E_CTR",
   "EPWW_ALL_CTR",
-  "EPWW_ALH_CTR"
+  "EPWW_ALH_CTR",
 ]
 
 [[stations]]
@@ -283,7 +281,7 @@ controlled_by = [
   "EPWW_S_CTR",
   "EPWW_ALH_CTR",
   "EPWW_JR_CTR",
-  "EPWW_ALL_CTR"
+  "EPWW_ALL_CTR",
 ]
 
 [[stations]]
@@ -293,7 +291,7 @@ controlled_by = [
   "EPWW_E_CTR",
   "EPWW_S_CTR",
   "EPWW_ALH_CTR",
-  "EPWW_ALL_CTR"
+  "EPWW_ALL_CTR",
 ]
 
 [[stations]]
@@ -303,7 +301,7 @@ controlled_by = [
   "EPWW_E_CTR",
   "EPWW_S_CTR",
   "EPWW_ALL_CTR",
-  "EPWW_ALH_CTR"
+  "EPWW_ALH_CTR",
 ]
 
 [[stations]]
@@ -316,7 +314,7 @@ controlled_by = [
   "EPWW_DT_CTR",
   "EPWW_TM_CTR",
   "EPWW_DBT_CTR",
-  "EPWW_ALL_CTR"
+  "EPWW_ALL_CTR",
 ]
 
 [[stations]]
@@ -329,7 +327,7 @@ controlled_by = [
   "EPWW_DBT_CTR",
   "EPWW_S_CTR",
   "EPWW_ALH_CTR",
-  "EPWW_ALL_CTR"
+  "EPWW_ALL_CTR",
 ]
 
 [[stations]]
@@ -342,122 +340,84 @@ controlled_by = [
   "EPWW_DBT_CTR",
   "EPWW_S_CTR",
   "EPWW_ALL_CTR",
-  "EPWW_ALH_CTR"
+  "EPWW_ALH_CTR",
 ]
 
 [[stations]]
 id = "EPWW_C"
-controlled_by = [
-  "EPWW_C_CTR"
-]
+controlled_by = ["EPWW_C_CTR"]
 
 [[stations]]
 id = "EPWW_D"
-controlled_by = [
-  "EPWW_D_CTR"
-]
+controlled_by = ["EPWW_D_CTR"]
 
 [[stations]]
 id = "EPWW_DBT"
-controlled_by = [
-  "EPWW_DBT_CTR"
-]
+controlled_by = ["EPWW_DBT_CTR"]
 
 [[stations]]
 id = "EPWW_DBF"
-controlled_by = [
-  "EPWW_DBF_CTR"
-]
+controlled_by = ["EPWW_DBF_CTR"]
 
 [[stations]]
 id = "EPWW_DT"
-controlled_by = [
-  "EPWW_DT_CTR"
-]
+controlled_by = ["EPWW_DT_CTR"]
 
 [[stations]]
 id = "EPWW_DTC"
-controlled_by = [
-  "EPWW_DTC_CTR"
-]
+controlled_by = ["EPWW_DTC_CTR"]
 
 [[stations]]
 id = "EPWW_F"
-controlled_by = [
-  "EPWW_F_CTR"
-]
+controlled_by = ["EPWW_F_CTR"]
 
 [[stations]]
 id = "EPWW_FG"
-controlled_by = [
-  "EPWW_FG_CTR"
-]
+controlled_by = ["EPWW_FG_CTR"]
 
 [[stations]]
 id = "EPWW_G"
-controlled_by = [
-  "EPWW_G_CTR"
-]
+controlled_by = ["EPWW_G_CTR"]
 
 [[stations]]
 id = "EPWW_J"
-controlled_by = [
-  "EPWW_J_CTR"
-]
+controlled_by = ["EPWW_J_CTR"]
 
 [[stations]]
 id = "EPWW_JR"
-controlled_by = [
-  "EPWW_JR_CTR"
-]
+controlled_by = ["EPWW_JR_CTR"]
 
 [[stations]]
 id = "EPWW_NE"
-controlled_by = [
-  "EPWW_NE_CTR"
-]
+controlled_by = ["EPWW_NE_CTR"]
 
 [[stations]]
 id = "EPWW_TM"
-controlled_by = [
-  "EPWW_TM_CTR"
-]
+controlled_by = ["EPWW_TM_CTR"]
 
 [[stations]]
 id = "EPWW_TCJ"
-controlled_by = [
-  "EPWW_TCJ_CTR"
-]
+controlled_by = ["EPWW_TCJ_CTR"]
 
 [[stations]]
 id = "EPWW_ALH"
-controlled_by = [
-  "EPWW_ALH_CTR"
-]
+controlled_by = ["EPWW_ALH_CTR"]
 
 [[stations]]
 id = "EPWW_ALL"
-controlled_by = [
-  "EPWW_ALL_CTR"
-]
+controlled_by = ["EPWW_ALL_CTR"]
 
 [[stations]]
 id = "EPWW_E"
-controlled_by = [
-  "EPWW_E_CTR"
-]
+controlled_by = ["EPWW_E_CTR"]
 
 [[stations]]
 id = "EPWW_N"
-controlled_by = [
-  "EPWW_N_CTR"
-]
+controlled_by = ["EPWW_N_CTR"]
 
 [[stations]]
 id = "EPWW_S"
-controlled_by = [
-  "EPWW_S_CTR"
-]
+controlled_by = ["EPWW_S_CTR"]
 
 [[stations]]
 id = "EPBA"
@@ -481,7 +441,7 @@ controlled_by = [
   "EPWW_N_CTR",
   "EPWW_DBF_CTR",
   "EPWW_ALL_CTR",
-  "EPWW_ALH_CTR"
+  "EPWW_ALH_CTR",
 ]
 
 [[stations]]
@@ -494,7 +454,7 @@ controlled_by = [
   "EPWW_N_CTR",
   "EPWW_DBF_CTR",
   "EPWW_ALL_CTR",
-  "EPWW_ALH_CTR"
+  "EPWW_ALH_CTR",
 ]
 
 [[stations]]
@@ -517,7 +477,7 @@ controlled_by = [
   "EPWW_N_CTR",
   "EPWW_DBF_CTR",
   "EPWW_ALL_CTR",
-  "EPWW_ALH_CTR"
+  "EPWW_ALH_CTR",
 ]
 
 [[stations]]
@@ -531,7 +491,7 @@ controlled_by = [
   "EPWW_N_CTR",
   "EPWW_DBF_CTR",
   "EPWW_ALL_CTR",
-  "EPWW_ALH_CTR"
+  "EPWW_ALH_CTR",
 ]
 
 [[stations]]
@@ -544,7 +504,7 @@ controlled_by = [
   "EPWW_N_CTR",
   "EPWW_DBF_CTR",
   "EPWW_ALL_CTR",
-  "EPWW_ALH_CTR"
+  "EPWW_ALH_CTR",
 ]
 
 [[stations]]
@@ -556,7 +516,7 @@ controlled_by = [
   "EPWW_N_CTR",
   "EPWW_DBF_CTR",
   "EPWW_ALL_CTR",
-  "EPWW_ALH_CTR"
+  "EPWW_ALH_CTR",
 ]
 
 [[stations]]
@@ -593,7 +553,7 @@ controlled_by = [
   "EPWW_TCJ_CTR",
   "EPWW_E_CTR",
   "EPWW_ALL_CTR",
-  "EPWW_ALH_CTR"
+  "EPWW_ALH_CTR",
 ]
 
 [[stations]]
@@ -609,7 +569,7 @@ controlled_by = [
   "EPWW_TCJ_CTR",
   "EPWW_E_CTR",
   "EPWW_ALL_CTR",
-  "EPWW_ALH_CTR"
+  "EPWW_ALH_CTR",
 ]
 
 [[stations]]
@@ -624,7 +584,7 @@ controlled_by = [
   "EPWW_TCJ_CTR",
   "EPWW_E_CTR",
   "EPWW_ALL_CTR",
-  "EPWW_ALH_CTR"
+  "EPWW_ALH_CTR",
 ]
 
 [[stations]]
@@ -638,7 +598,7 @@ controlled_by = [
   "EPWW_TCJ_CTR",
   "EPWW_E_CTR",
   "EPWW_ALL_CTR",
-  "EPWW_ALH_CTR"
+  "EPWW_ALH_CTR",
 ]
 
 [[stations]]
@@ -653,7 +613,7 @@ controlled_by = [
   "EPWW_TCJ_CTR",
   "EPWW_E_CTR",
   "EPWW_ALL_CTR",
-  "EPWW_ALH_CTR"
+  "EPWW_ALH_CTR",
 ]
 
 [[stations]]
@@ -668,20 +628,20 @@ controlled_by = [
   "EPWW_TCJ_CTR",
   "EPWW_E_CTR",
   "EPWW_ALL_CTR",
-  "EPWW_ALH_CTR"
+  "EPWW_ALH_CTR",
 ]
 
 [[stations]]
 id = "EPKK_TMA_W"
 controlled_by = [
-  "EPKK_APP", 
+  "EPKK_APP",
   "EPWW_J_CTR",
   "EPWW_JR_CTR",
   "EPWW_S_CTR",
   "EPWW_TCJ_CTR",
   "EPWW_E_CTR",
   "EPWW_ALL_CTR",
-  "EPWW_ALH_CTR"
+  "EPWW_ALH_CTR",
 ]
 
 [[stations]]
@@ -721,7 +681,7 @@ controlled_by = [
   "EPWW_TCJ_CTR",
   "EPWW_E_CTR",
   "EPWW_ALL_CTR",
-  "EPWW_ALH_CTR"
+  "EPWW_ALH_CTR",
 ]
 
 [[stations]]
@@ -736,7 +696,7 @@ controlled_by = [
   "EPWW_TCJ_CTR",
   "EPWW_E_CTR",
   "EPWW_ALL_CTR",
-  "EPWW_ALH_CTR"
+  "EPWW_ALH_CTR",
 ]
 
 [[stations]]
@@ -750,7 +710,7 @@ controlled_by = [
   "EPWW_TCJ_CTR",
   "EPWW_E_CTR",
   "EPWW_ALL_CTR",
-  "EPWW_ALH_CTR"
+  "EPWW_ALH_CTR",
 ]
 
 [[stations]]
@@ -761,7 +721,7 @@ controlled_by = [
   "EPWW_E_CTR",
   "EPWW_S_CTR",
   "EPWW_ALL_CTR",
-  "EPWW_ALH_CTR"
+  "EPWW_ALH_CTR",
 ]
 
 [[stations]]
@@ -772,7 +732,7 @@ controlled_by = [
   "EPWW_E_CTR",
   "EPWW_S_CTR",
   "EPWW_ALL_CTR",
-  "EPWW_ALH_CTR"
+  "EPWW_ALH_CTR",
 ]
 
 [[stations]]
@@ -791,7 +751,7 @@ controlled_by = [
   "EPWW_E_CTR",
   "EPWW_N_CTR",
   "EPWW_ALL_CTR",
-  "EPWW_ALH_CTR"
+  "EPWW_ALH_CTR",
 ]
 
 [[stations]]
@@ -809,7 +769,7 @@ controlled_by = [
   "EPWW_E_CTR",
   "EPWW_N_CTR",
   "EPWW_ALL_CTR",
-  "EPWW_ALH_CTR"
+  "EPWW_ALH_CTR",
 ]
 
 [[stations]]
@@ -827,7 +787,7 @@ controlled_by = [
   "EPWW_E_CTR",
   "EPWW_N_CTR",
   "EPWW_ALL_CTR",
-  "EPWW_ALH_CTR"
+  "EPWW_ALH_CTR",
 ]
 
 [[stations]]
@@ -854,7 +814,7 @@ controlled_by = [
   "EPWW_E_CTR",
   "EPWW_N_CTR",
   "EPWW_ALL_CTR",
-  "EPWW_ALH_CTR"
+  "EPWW_ALH_CTR",
 ]
 
 [[stations]]
@@ -872,7 +832,7 @@ controlled_by = [
   "EPWW_E_CTR",
   "EPWW_N_CTR",
   "EPWW_ALL_CTR",
-  "EPWW_ALH_CTR"
+  "EPWW_ALH_CTR",
 ]
 
 [[stations]]
@@ -896,7 +856,7 @@ controlled_by = [
   "EPWW_DTC_CTR",
   "EPWW_N_CTR",
   "EPWW_ALL_CTR",
-  "EPWW_ALH_CTR"
+  "EPWW_ALH_CTR",
 ]
 
 [[stations]]
@@ -911,7 +871,7 @@ controlled_by = [
   "EPWW_DTC_CTR",
   "EPWW_N_CTR",
   "EPWW_ALL_CTR",
-  "EPWW_ALH_CTR"
+  "EPWW_ALH_CTR",
 ]
 
 [[stations]]
@@ -925,7 +885,7 @@ controlled_by = [
   "EPWW_DTC_CTR",
   "EPWW_N_CTR",
   "EPWW_ALL_CTR",
-  "EPWW_ALH_CTR"
+  "EPWW_ALH_CTR",
 ]
 
 [[stations]]
@@ -938,7 +898,7 @@ controlled_by = [
   "EPWW_DTC_CTR",
   "EPWW_N_CTR",
   "EPWW_ALL_CTR",
-  "EPWW_ALH_CTR"
+  "EPWW_ALH_CTR",
 ]
 
 [[stations]]
@@ -953,7 +913,7 @@ controlled_by = [
   "EPWW_DBT_CTR",
   "EPWW_S_CTR",
   "EPWW_ALL_CTR",
-  "EPWW_ALH_CTR"
+  "EPWW_ALH_CTR",
 ]
 
 [[stations]]
@@ -979,7 +939,7 @@ controlled_by = [
   "EPWW_E_CTR",
   "EPWW_N_CTR",
   "EPWW_ALL_CTR",
-  "EPWW_ALH_CTR"
+  "EPWW_ALH_CTR",
 ]
 
 [[stations]]
@@ -997,7 +957,7 @@ controlled_by = [
   "EPWW_E_CTR",
   "EPWW_N_CTR",
   "EPWW_ALL_CTR",
-  "EPWW_ALH_CTR"
+  "EPWW_ALH_CTR",
 ]
 
 [[stations]]
@@ -1014,7 +974,7 @@ controlled_by = [
   "EPWW_TCJ_CTR",
   "EPWW_E_CTR",
   "EPWW_ALL_CTR",
-  "EPWW_ALH_CTR"
+  "EPWW_ALH_CTR",
 ]
 
 [[stations]]
@@ -1030,7 +990,7 @@ controlled_by = [
   "EPWW_TCJ_CTR",
   "EPWW_E_CTR",
   "EPWW_ALL_CTR",
-  "EPWW_ALH_CTR"
+  "EPWW_ALH_CTR",
 ]
 
 [[stations]]
@@ -1046,7 +1006,7 @@ controlled_by = [
   "EPWW_TCJ_CTR",
   "EPWW_E_CTR",
   "EPWW_ALL_CTR",
-  "EPWW_ALH_CTR"
+  "EPWW_ALH_CTR",
 ]
 
 [[stations]]
@@ -1057,7 +1017,7 @@ controlled_by = [
   "EPWW_DBF_CTR",
   "EPWW_N_CTR",
   "EPWW_ALL_CTR",
-  "EPWW_ALH_CTR"
+  "EPWW_ALH_CTR",
 ]
 
 [[stations]]
@@ -1068,7 +1028,7 @@ controlled_by = [
   "EPWW_DBF_CTR",
   "EPWW_N_CTR",
   "EPWW_ALL_CTR",
-  "EPWW_ALH_CTR"
+  "EPWW_ALH_CTR",
 ]
 
 [[stations]]
@@ -1079,7 +1039,7 @@ controlled_by = [
   "EPWW_N_CTR",
   "EPWW_E_CTR",
   "EPWW_ALL_CTR",
-  "EPWW_ALH_CTR"
+  "EPWW_ALH_CTR",
 ]
 
 [[stations]]
@@ -1090,7 +1050,7 @@ controlled_by = [
   "EPWW_N_CTR",
   "EPWW_E_CTR",
   "EPWW_ALL_CTR",
-  "EPWW_ALH_CTR"
+  "EPWW_ALH_CTR",
 ]
 
 [[stations]]
@@ -1111,7 +1071,7 @@ controlled_by = [
   "EPWW_E_CTR",
   "EPWW_N_CTR",
   "EPWW_ALL_CTR",
-  "EPWW_ALH_CTR"
+  "EPWW_ALH_CTR",
 ]
 
 [[stations]]
@@ -1131,7 +1091,7 @@ controlled_by = [
   "EPWW_E_CTR",
   "EPWW_N_CTR",
   "EPWW_ALL_CTR",
-  "EPWW_ALH_CTR"
+  "EPWW_ALH_CTR",
 ]
 
 [[stations]]
@@ -1150,7 +1110,7 @@ controlled_by = [
   "EPWW_E_CTR",
   "EPWW_N_CTR",
   "EPWW_ALL_CTR",
-  "EPWW_ALH_CTR"
+  "EPWW_ALH_CTR",
 ]
 
 [[stations]]
@@ -1168,7 +1128,7 @@ controlled_by = [
   "EPWW_E_CTR",
   "EPWW_N_CTR",
   "EPWW_ALL_CTR",
-  "EPWW_ALH_CTR"
+  "EPWW_ALH_CTR",
 ]
 
 [[stations]]
@@ -1185,7 +1145,7 @@ controlled_by = [
   "EPWW_E_CTR",
   "EPWW_N_CTR",
   "EPWW_ALL_CTR",
-  "EPWW_ALH_CTR"
+  "EPWW_ALH_CTR",
 ]
 
 [[stations]]
@@ -1202,7 +1162,7 @@ controlled_by = [
   "EPWW_E_CTR",
   "EPWW_N_CTR",
   "EPWW_ALL_CTR",
-  "EPWW_ALH_CTR"
+  "EPWW_ALH_CTR",
 ]
 
 [[stations]]
@@ -1219,7 +1179,7 @@ controlled_by = [
   "EPWW_E_CTR",
   "EPWW_N_CTR",
   "EPWW_ALL_CTR",
-  "EPWW_ALH_CTR"
+  "EPWW_ALH_CTR",
 ]
 
 [[stations]]
@@ -1245,7 +1205,7 @@ controlled_by = [
   "EPWW_DBT_CTR",
   "EPWW_S_CTR",
   "EPWW_ALL_CTR",
-  "EPWW_ALH_CTR"
+  "EPWW_ALH_CTR",
 ]
 
 [[stations]]
@@ -1262,7 +1222,7 @@ controlled_by = [
   "EPWW_DBT_CTR",
   "EPWW_S_CTR",
   "EPWW_ALL_CTR",
-  "EPWW_ALH_CTR"
+  "EPWW_ALH_CTR",
 ]
 
 [[stations]]
@@ -1278,7 +1238,7 @@ controlled_by = [
   "EPWW_DBT_CTR",
   "EPWW_S_CTR",
   "EPWW_ALL_CTR",
-  "EPWW_ALH_CTR"
+  "EPWW_ALH_CTR",
 ]
 
 [[stations]]
@@ -1292,7 +1252,7 @@ controlled_by = [
   "EPWW_DTC_CTR",
   "EPWW_N_CTR",
   "EPWW_ALL_CTR",
-  "EPWW_ALH_CTR"
+  "EPWW_ALH_CTR",
 ]
 
 [[stations]]
@@ -1306,7 +1266,7 @@ controlled_by = [
   "EPWW_DTC_CTR",
   "EPWW_N_CTR",
   "EPWW_ALL_CTR",
-  "EPWW_ALH_CTR"
+  "EPWW_ALH_CTR",
 ]
 
 [[stations]]

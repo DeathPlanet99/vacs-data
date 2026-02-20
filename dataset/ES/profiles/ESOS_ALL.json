@@ -396,7 +396,7 @@
         "rows": 6,
         "keys": [
           {
-            "label": ["ENBD", "25"]
+            "label": ["ENBD", "27"]
           },
           {
             "label": ["ENBD", "24"]
@@ -414,7 +414,7 @@
             "label": ["ENOS", "3"]
           },
           {
-            "label": ["ENBD", "26"]
+            "label": ["ENBD", "25"]
           },
           {
             "label": ["ENBO", "APP", ""]
@@ -432,27 +432,26 @@
             "label": ["ENOS", "OSLO", "APP-E"]
           },
           {
+            "label": ["ENBD", "26"]
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
             "label": ["EFIN", "J"],
             "station_id": "EFIN_J"
-          },
-          {
-            "label": []
-          },
-          {
-            "label": []
-          },
-          {
-            "label": []
-          },
-          {
-            "label": []
-          },
-          {
-            "label": []
-          },
-          {
-            "label": ["EFIN", "H"],
-            "station_id": "EFIN_H"
           },
           {
             "label": ["EFET", "AFIS"],
@@ -472,8 +471,8 @@
             "label": []
           },
           {
-            "label": ["EFIN", "V"],
-            "station_id": "EFIN_V"
+            "label": ["EFIN", "H"],
+            "station_id": "EFIN_H"
           },
           {
             "label": ["EFRO", "RAD", ""],
@@ -494,8 +493,8 @@
             "label": []
           },
           {
-            "label": ["EFIN", "G"],
-            "station_id": "EFIN_G"
+            "label": ["EFIN", "V"],
+            "station_id": "EFIN_V"
           },
           {
             "label": ["EFOU", "RAD"],
@@ -515,8 +514,8 @@
             "label": []
           },
           {
-            "label": ["EFIN", "F"],
-            "station_id": "EFIN_F"
+            "label": ["EFIN", "G"],
+            "station_id": "EFIN_G"
           },
           {
             "label": ["EFMA", "TWR"],
@@ -536,6 +535,10 @@
             "label": ["EVRR", "FIS"]
           },
           {
+            "label": ["EFIN", "F"],
+            "station_id": "EFIN_F"
+          },
+          {
             "label": ["EFIN", "D"],
             "station_id": "EFIN_D"
           },
@@ -546,9 +549,6 @@
           {
             "label": ["EFIN", "B"],
             "station_id": "EFIN_B"
-          },
-          {
-            "label": []
           },
           {
             "label": ["EETT", "W"],

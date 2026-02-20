@@ -399,13 +399,16 @@
             "label": []
           },
           {
-            "label": ["EDUU", "OSE2"]
+            "label": ["EDUU", "OSE2"],
+            "station_id": "EDUU-OSE22"
           },
           {
-            "label": ["EDUU", "OSE1", ""]
+            "label": ["EDUU", "OSE1", ""],
+            "station_id": "EDUU-OSE12"
           },
           {
-            "label": ["EDWW", "MRZ"]
+            "label": ["EDWW", "MRZ"],
+            "station_id": "EDWW-MRZ"
           },
           {
             "label": ["EFIN", "B"],

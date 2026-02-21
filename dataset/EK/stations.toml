@@ -166,7 +166,6 @@ controlled_by = [
 ]
 
 [[stations]]
-id = "EKCH_A_GND"
 controlled_by = [
     "EKCH_A_GND"
     "EKCH_B_GND"
@@ -183,10 +182,9 @@ controlled_by = [
     "EKDK_E_CTR",
     "EKDK_UC_CTR",
     "EKDK_CTR",
-]
+]id = "EKCH_A_GND"
 
 [[stations]]
-id = "EKCH_B_GND"
 controlled_by = [
     "EKCH_B_GND"
     "EKCH_A_GND"
@@ -203,10 +201,9 @@ controlled_by = [
     "EKDK_E_CTR",
     "EKDK_UC_CTR",
     "EKDK_CTR",
-]
+]id = "EKCH_B_GND"
 
 [[stations]]
-id = "EKCH_C_GND"
 controlled_by = [
     "EKCH_C_GND"
     "EKCH_A_GND"
@@ -223,7 +220,7 @@ controlled_by = [
     "EKDK_E_CTR",
     "EKDK_UC_CTR",
     "EKDK_CTR",
-]
+]id = "EKCH_C_GND"
 
 [[stations]]
 id = "EKCH_DEL"

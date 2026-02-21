@@ -602,7 +602,6 @@ controlled_by = [
 ]
 
 [[stations]]
-id = "EPKK_TMA_E"
 controlled_by = [
   "EPKK_E_APP"
   "EPKK_APP",
@@ -613,7 +612,7 @@ controlled_by = [
   "EPWW_E_CTR",
   "EPWW_ALL_CTR",
   "EPWW_ALH_CTR",
-]
+]id = "EPKK_TMA_E"
 
 [[stations]]
 id = "EPKK_FIS"
